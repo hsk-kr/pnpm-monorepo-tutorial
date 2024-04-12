@@ -1,0 +1,14 @@
+{
+  "name": "monorepo",
+  "version": "1.0.0",
+  "description": "monorepo example",
+  "scripts": {
+    "test": "pnpm run -r test",
+    "dev": "pnpm run --filter website dev"
+  },
+  "author": "hsk.coder@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
+}
