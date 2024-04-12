@@ -24,6 +24,8 @@ I will be writing this post following the steps:
 
 Additionally, I have recorded the process and uploaded it on my youtube channel. Since I started this channel to practice speaking English, considering my English proficiency, some I said might not sound unnatural. But still, I suggest watching the video if you would like to see the process in more detail. It's a very pure no-edit video where you can see all I did to set up a mono repo, like what I searched for, what problems I encountered, and how I solved them from scratch.
 
+[![tutorial video](https://img.youtube.com/vi/cZBirtSX0RU/default.jpg)](https://www.youtube.com/watch?v=cZBirtSX0RU)
+
 Okay, let's get started!
 
 ---
@@ -397,3 +399,7 @@ export default App
 Explore some mono repos, you will get an idea of how you should set your project. husky, common setting of tsconfig file, etc, there are many things you can set up with and also you need to consider such as versioning, dependencies, and so on.
 
 I hope you found it helpful and Happy Coding!
+
+---
+
+[Full Source Code](https://github.com/hsk-kr/pnpm-monorepo-tutorial)
